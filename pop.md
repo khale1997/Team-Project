@@ -16,10 +16,10 @@ We are going to make a 2-D shooting game. This gives us the opportunity to get e
 * Component1: UI/ UX
   * Lead: John
 
-* Component2: Game Logic (Character stats, enemy stats)
+* Component2: Player Design
   * Lead: Thavindu
 
-* Component3: Graphics
+* Component3: Enemy Desgin
   * Lead: Long
 
 * Component4: Audio
