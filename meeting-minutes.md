@@ -1,15 +1,13 @@
 # Meeting Minutes
-**Date:**
+**Date:** 2/2/2024
 
 ## Agenda
-1. Item 1
-2. Item 2
-3. Item 3
+1. Unity Setup
+2. Software Development Process
 
 ## Notes
-1. Response to Item 1
+1. Refer to the [unity-install-guide](Team-Project/unity-install-guide.md) for Unity installation process. 
 2. Response to Item 2
-3. Response to Item 3
 
 ## Action Items
 * Group Member `n`
