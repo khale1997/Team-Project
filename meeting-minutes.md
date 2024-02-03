@@ -17,6 +17,6 @@
     * Get started on learning Unity Engine
 
 ## Contributors
-* Group Member
+* Thavindu
 * Group Member
 * Group Member
