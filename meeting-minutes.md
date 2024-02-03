@@ -1,15 +1,13 @@
 # Meeting Minutes
-**Date:**
+**Date:** 2/2/2024
 
 ## Agenda
-1. Item 1
-2. Item 2
-3. Item 3
+1. Unity Setup
+2. Software Development Process
 
 ## Notes
-1. Response to Item 1
-2. Response to Item 2
-3. Response to Item 3
+1. Refer to the [unity-install-guide](https://github.com/WinterBlue-CEG4110/Team-Project/blob/MI-00-unity-install-guide/unity-install-guide.md) for Unity installation process. 
+2. Decided to proceed with Waterfall Methodology. More details on [sdp.md](https://github.com/WinterBlue-CEG4110/Team-Project/blob/MI-00-unity-install-guide/sdp.md)
 
 ## Action Items
 * Group Member `n`
