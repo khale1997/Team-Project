@@ -6,7 +6,7 @@
 2. Software Development Process
 
 ## Notes
-1. Refer to the [unity-install-guide](Team-Project/blob/MI-00-unity-install-guide/unity-install-guide.md) for Unity installation process. 
+1. Refer to the [unity-install-guide](https://github.com/WinterBlue-CEG4110/Team-Project/blob/MI-00-unity-install-guide/unity-install-guide.md) for Unity installation process. 
 2. Response to Item 2
 
 ## Action Items
