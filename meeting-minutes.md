@@ -18,5 +18,5 @@
 
 ## Contributors
 * Thavindu
-* Group Member
+* John McGuff
 * Group Member
