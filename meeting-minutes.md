@@ -19,4 +19,4 @@
 ## Contributors
 * Thavindu
 * John McGuff
-* Group Member
+* Long Nguyen
