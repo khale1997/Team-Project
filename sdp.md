@@ -26,13 +26,14 @@
 ## Milestones  
 Important Milestones that some combine the development methodology with constraints you cannot change (e.g., how long the course is).
 * Milestones:
-  * Game design document (outline gameplay mechanics, characters, and overall game structure) [Date]
-  * Art delivery (player & enemy sprites, back grounds, animations) [Date]
-  * Player movement and AI behavior [Date]
-  * Working power-ups by the end of the project!
-  * Sound & Music [Date]
-  * A functional UI with updating Health indicators, game timer, etc by March 1st.
-  * Functioning Prototype By the 5th of April
+  * Game design document (outline gameplay mechanics, characters, and overall game structure) [2/21/24]
+  * First enemy [03/13/24]
+  * Art delivery (player & enemy sprites, back grounds, animations) [03/20/24]
+  * Finalize player movement [03/20/24]
+  * First working power-up [03/27/24]
+  * Sound & Music [03/27/24]
+  * A functional UI with updating Health indicators, game timer, etc by [03/27/24].
+  * Functioning Prototype By [04/05/24]
 * Constraints:
   * The total development time is limited to 16 weeks.
   * Any changes to the core gameplay must be approved by all team members.
