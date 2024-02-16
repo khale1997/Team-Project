@@ -26,7 +26,7 @@
 ## Milestones  
 Important Milestones that some combine the development methodology with constraints you cannot change (e.g., how long the course is).
 * Key Milestones:
-  * Requirements Specification Document []
+  * Requirements Specification Document [03/06/24]
   * Design Specification Document [03/20/24]
   * MVP [03/20/24]
 * Developing Milestones:
