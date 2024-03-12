@@ -26,11 +26,13 @@
   * 2.1: A controllable player character
   * 2.2: Moves left and right with keyboard controls
   * 2.3: Player character fires a projectile
-    * 2.31: Projectile is fired automatically
-  * 2.4 Powerups that alter fired projectile/player stats
-  * 2.5: Player character can be damaged by enemies (Has a hitpoint value)
+    * 2.31: Projectile is fired upon pressing a key
+  * 2.4: Powerups that alter fired projectile/player stats
+  * 2.5: Player character can be damaged after getting hit once by an enemy
     * 2.51: Player character is briefly invincible after being hit (indicated by blinking model)
-    * 2.52: Player has three hitpoints
+    * 2.52: Player has three hitpoints/lives/hearts
+    * 2.53: Player regenerates where they were attacked as long as there are lives)
+    * 2.54: Player has to restart when all lives are lost (game over)     
 * 3.0 Enemy Functionality
   * 3.1: Come in different varieties
     * 3.11: Enemies have different attacks and behaviors
